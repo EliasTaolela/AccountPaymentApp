@@ -1,0 +1,14 @@
+C:\Users\46881\VSCode\AccountPaymentApp\bin\Debug\net8.0\AccountPaymentApp.exe
+C:\Users\46881\VSCode\AccountPaymentApp\bin\Debug\net8.0\AccountPaymentApp.deps.json
+C:\Users\46881\VSCode\AccountPaymentApp\bin\Debug\net8.0\AccountPaymentApp.runtimeconfig.json
+C:\Users\46881\VSCode\AccountPaymentApp\bin\Debug\net8.0\AccountPaymentApp.dll
+C:\Users\46881\VSCode\AccountPaymentApp\bin\Debug\net8.0\AccountPaymentApp.pdb
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.AssemblyInfoInputs.cache
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.AssemblyInfo.cs
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.dll
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\refint\AccountPaymentApp.dll
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.pdb
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\AccountPaymentApp.genruntimeconfig.cache
+C:\Users\46881\VSCode\AccountPaymentApp\obj\Debug\net8.0\ref\AccountPaymentApp.dll
